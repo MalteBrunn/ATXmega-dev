@@ -3,3 +3,11 @@
 Downloads
 *.o
 *.hex
+*.zip
+*.drl
+*.kicad_pcb-bak
+*.sch-bak
+fp-lib-table
+fp-info-cache
+*.gbrjob
+*.elf
